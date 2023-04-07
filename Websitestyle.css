@@ -15,7 +15,9 @@ header {
 }
 
 nav {
-    background-color: #705D56;
+    background: #1e130c;
+    background: -webkit-linear-gradient(to top, #1e130c, #9a8478);
+    background: linear-gradient(to top, #1e130c, #9a8478);
     text-align: center;
     font-family: Arial;
     font-size: 20px;
